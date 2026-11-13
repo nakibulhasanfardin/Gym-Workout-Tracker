@@ -1,0 +1,27 @@
+{
+    "Chest": [
+        {
+            "date": "2026-10-28",
+            "exercises": {
+                "Bench Press": {
+                    "weight": 15.0,
+                    "sets": 3,
+                    "reps": 12,
+                    "difficulty": 5
+                },
+                "Incline Dumbbell Press": {
+                    "weight": 17.0,
+                    "sets": 3,
+                    "reps": 10,
+                    "difficulty": 6
+                },
+                "Lateral Raises": {
+                    "weight": 5.0,
+                    "sets": 3,
+                    "reps": 12,
+                    "difficulty": 7
+                }
+            }
+        }
+    ]
+}
